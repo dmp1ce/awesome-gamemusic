@@ -10,6 +10,7 @@ Awesome Video Game Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 # Podcasts
 
 * [Nitro Game Injection](https://kngi.org/category/shows/) - Video game remixes
+* [Overclocked Podcast](http://www.whalesarewhales.com/overclocked-podcast/) - a weekly dose of video game music news and conversation from OCReMix.org
 * [Pixelated Audio](https://pixelatedaudio.com/episodes/) - Focuses on video game music & retro games that span across multiple platforms in an attempt to bring music, history, awareness and some of the gaming culture to people that share a similar passion
 * [Super Marcato Bros.](http://www.supermarcatobros.com/podcast/) - Video Game Music Podcast hosted by Karl & Will Brueggemann
 * [The Legacy Music Hour](https://legacymusichour.blogspot.com/) - A podcast featuring the best music ever made
