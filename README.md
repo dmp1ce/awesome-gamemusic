@@ -5,6 +5,8 @@ Awesome Video Game Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 
 - [Podcasts](#podcasts)
 - [Steams](#Streams)
+- [Netlabels](#Albums)
+- [Original Soundtracks](#original-soundtracks)
 - [License](#license)
 
 # Podcasts
@@ -20,6 +22,18 @@ Awesome Video Game Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 * [KNGI Stream](http://139.162.242.244:8014/autodj) - KNGI auto DJ
 * [LoFi VGM by Dj Cutman](https://youtu.be/R6W2BckoiSk) - Mixing lofi hip hop beats with video game music also influenced with funk, soul, and anime samples
 * [Random Chiptune Radio by Krelez](https://youtu.be/bltoSPRSGv8) - 8bit / NES / C64 / SID / FM / electronic music for gaming or programming
+
+# Netlabels
+
+* [Chiptunes = WIN](https://chiptuneswin.bandcamp.com/) - International chiptune collective focused on promoting & fostering a more open & interactive chip community
+* [CheapBeats](https://cheapbeatsmusic.bandcamp.com/music) - Label for the Tokyo-based semi-regular chiptune and lo-fi
+
+# Original Soundtracks
+
+A very biased list of OSTs
+
+- [Shovel Knight](https://virt.bandcamp.com/album/shovel-knight-original-soundtrack) - The NES compiled version of Shovel Knight
+- [Sonic Mania](https://itunes.apple.com/us/album/sonic-mania-original-soundtrack-selected-edition/1333856904?app=itunes&ign-mpt=uo%3D4)
 
 # License
 
