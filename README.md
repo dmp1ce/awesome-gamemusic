@@ -3,7 +3,7 @@ Awesome Game Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 
 [Awesome](https://github.com/sindresorhus/awesome) list for game music.
 
-- [Awesome Game Music](#awesome-game-music)
+- [Awesome Video Game Music](#awesome-video-game-music)
     - [Podcasts](#podcasts)
     - [Steams](#Streams)
 - [License](#license)
