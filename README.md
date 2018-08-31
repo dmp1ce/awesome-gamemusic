@@ -23,16 +23,20 @@ Awesome Video Game Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 * [LoFi VGM by Dj Cutman](https://youtu.be/R6W2BckoiSk) - Mixing lofi hip hop beats with video game music also influenced with funk, soul, and anime samples
 * [Random Chiptune Radio by Krelez](https://youtu.be/bltoSPRSGv8) - 8bit / NES / C64 / SID / FM / electronic music for gaming or programming
 
-# Netlabels
+# Album Groups
 
-* [Chiptunes = WIN](https://chiptuneswin.bandcamp.com/) - International chiptune collective focused on promoting & fostering a more open & interactive chip community
+Netlabels, artists or other group of albums
+
 * [CheapBeats](https://cheapbeatsmusic.bandcamp.com/music) - Label for the Tokyo-based semi-regular chiptune and lo-fi
+* [Chiptunes = WIN](https://chiptuneswin.bandcamp.com/) - International chiptune collective focused on promoting & fostering a more open & interactive chip community
+* [Cheap Dinosaurs](https://cheapdinosaurs.bandcamp.com/) - Psychedelic prog rock band
+* [Disasterpeace](http://disasterpeace.com/music) - Purveyor of Earworms for It Follows, FEZ, Hyper Light Drifter, Mini Metro, Reigns, Adventure Time and many other things 
+* [Jake Kaufman](https://virt.bandcamp.com/) - Composer + Sound Designer who worked on Shovel Knight and Shantae OSTs
 
-# Original Soundtracks
+# Albums
 
-A very biased list of OSTs
+A very biased list of albums that don't otherwise appear in the album groups
 
-- [Shovel Knight](https://virt.bandcamp.com/album/shovel-knight-original-soundtrack) - The NES compiled version of Shovel Knight
 - [Sonic Mania](https://itunes.apple.com/us/album/sonic-mania-original-soundtrack-selected-edition/1333856904?app=itunes&ign-mpt=uo%3D4)
 
 # License
