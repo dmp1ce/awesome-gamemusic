@@ -29,15 +29,25 @@ Netlabels, artists or other group of albums
 
 * [CheapBeats](https://cheapbeatsmusic.bandcamp.com/music) - Label for the Tokyo-based semi-regular chiptune and lo-fi
 * [Chiptunes = WIN](https://chiptuneswin.bandcamp.com/) - International chiptune collective focused on promoting & fostering a more open & interactive chip community
+* [Chipzel](https://chipzel.co.uk/) - Video-game Composer//Gameboy Musician//Producer//Performer//
 * [Cheap Dinosaurs](https://cheapdinosaurs.bandcamp.com/) - Psychedelic prog rock band
 * [Disasterpeace](http://disasterpeace.com/music) - Purveyor of Earworms for It Follows, FEZ, Hyper Light Drifter, Mini Metro, Reigns, Adventure Time and many other things 
 * [Jake Kaufman](https://virt.bandcamp.com/) - Composer + Sound Designer who worked on Shovel Knight and Shantae OSTs
+* [Overclocked Remix Albums](https://ocremix.org/albums/) - Community arrangement albums, independent arrangement albums, original soundtracks, and more...
 
 # Albums
 
 A very biased list of albums that don't otherwise appear in the album groups
 
 - [Sonic Mania](https://itunes.apple.com/us/album/sonic-mania-original-soundtrack-selected-edition/1333856904?app=itunes&ign-mpt=uo%3D4)
+
+# Other
+
+Communities or other resources dedicated to video game music
+
+- [Overclocked Remix](https://ocremix.org/) - Dedicated to the appreciation and promotion of video game music as an art form
+- [Remix.Kwed.Org](http://remix.kwed.org/) - The Definitive Guide to C64 Remakes 
+- [r/gamemusic](https://www.reddit.com/r/gamemusic/) - Reddit Game Music community
 
 # License
 
