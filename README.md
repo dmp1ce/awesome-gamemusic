@@ -5,8 +5,8 @@ Awesome Video Game Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 
 - [Podcasts](#podcasts)
 - [Steams](#Streams)
-- [Netlabels](#Albums)
-- [Original Soundtracks](#original-soundtracks)
+- [Album Groups](#album-groups)
+- [Albums](#albums)
 - [License](#license)
 
 # Podcasts
