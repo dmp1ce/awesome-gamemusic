@@ -11,7 +11,7 @@ Awesome Video Game Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 
 # Podcasts
 
-* [Composers Play](https://www.youtube.com/watch?v=YB34-qX_b4s&list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf) - Video game music podcast hosted by composer and music producer Scott Tobin.
+* [Composers Play](https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf) - Video game music podcast hosted by composer and music producer Scott Tobin.
 * [Nitro Game Injection](https://kngi.org/category/shows/) - Video game remixes
 * [Overclocked Podcast](http://www.whalesarewhales.com/overclocked-podcast/) - a weekly dose of video game music news and conversation from OCReMix.org
 * [Pixelated Audio](https://pixelatedaudio.com/episodes/) - Focuses on video game music & retro games that span across multiple platforms in an attempt to bring music, history, awareness and some of the gaming culture to people that share a similar passion
