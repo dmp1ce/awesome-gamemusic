@@ -41,7 +41,7 @@ Netlabels, artists or other group of albums
 
 A very biased list of albums that don't otherwise appear in the album groups
 
-- [Project Reality Original Soundtrack v1.0](https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C?si=FQXvzg3bQx2qPw1JdRx6oQ)
+- [Project Reality Original Soundtrack v1.0](https://open.spotify.com/album/0Krzwyda9zwkfmdI8UcIx6?si=_iDdCkGGQQW7OJTZYJ7XKw)
 - [Sonic Mania](https://itunes.apple.com/us/album/sonic-mania-original-soundtrack-selected-edition/1333856904?app=itunes&ign-mpt=uo%3D4)
 
 # Other
