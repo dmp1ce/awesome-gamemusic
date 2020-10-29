@@ -35,11 +35,13 @@ Netlabels, artists or other group of albums
 * [Disasterpeace](http://disasterpeace.com/music) - Purveyor of Earworms for It Follows, FEZ, Hyper Light Drifter, Mini Metro, Reigns, Adventure Time and many other things 
 * [Jake Kaufman](https://virt.bandcamp.com/) - Composer + Sound Designer who worked on Shovel Knight and Shantae OSTs
 * [Overclocked Remix Albums](https://ocremix.org/albums/) - Community arrangement albums, independent arrangement albums, original soundtracks, and more...
+* [Scott Tobin](http://scotttobin.net/) - Composer, sound designer, and music producer who composed the original soundtracks for Project Reality, Squad, and Beyond The Wire.
 
 # Albums
 
 A very biased list of albums that don't otherwise appear in the album groups
 
+- [Project Reality Original Soundtrack v1.0](https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C?si=FQXvzg3bQx2qPw1JdRx6oQ)
 - [Sonic Mania](https://itunes.apple.com/us/album/sonic-mania-original-soundtrack-selected-edition/1333856904?app=itunes&ign-mpt=uo%3D4)
 
 # Other
